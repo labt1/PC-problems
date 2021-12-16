@@ -1,5 +1,8 @@
 # PC-problems
 Resultados
+1. Substring Order I
+
+2. Substring Order II
 
 3. Group Anagrams
 
