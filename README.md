@@ -10,7 +10,7 @@ Resultados
 
 4. Anagram Counting
 
-
+![alt text](https://github.com/labt1/PC-problems/blob/main/anagram_counting.png?raw=true)
 
 5. Groups of Special-Equivalent Strings
 
