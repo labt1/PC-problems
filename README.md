@@ -8,6 +8,10 @@ Resultados
 
 ![alt text](https://github.com/labt1/PC-problems/blob/main/GroupAnagrams.PNG?raw=true)
 
+4. Anagram Counting
+
+
+
 5. Groups of Special-Equivalent Strings
 
 ![alt text](https://github.com/labt1/PC-problems/blob/main/GroupsofSpecialEquivalentStrings.PNG?raw=true)
