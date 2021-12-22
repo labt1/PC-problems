@@ -47,9 +47,9 @@ Resultados
 
 ![alt text](https://github.com/labt1/PC-problems/blob/main//Semana%203/WateringGrass.png)
 
-## 3. A Vicious Piekemen (Easy)
+## 3. A Vicious Pikeman (Easy)
 
-![alt text](https://github.com/labt1/PC-problems/blob/main//Semana%203/AViciousPikemen.png)
+![alt text](https://github.com/labt1/PC-problems/blob/main//Semana%203/AViciousPikeman.png)
 
 
 
