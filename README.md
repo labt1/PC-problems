@@ -11,6 +11,7 @@ Resultados:
 
 # PC-Semana 2
 Resultados
+
 ***1. Substring Order I***
 
 ![alt text](https://github.com/labt1/PC-problems/blob/main//Semana%202/SubstringOrderI.png)
@@ -34,5 +35,21 @@ Resultados
 ***6. Greatest Common Divisor of Strings***
 
 ![alt text](https://github.com/labt1/PC-problems/blob/main//Semana%202/GreatestCommonDivisorofStrings.PNG?raw=true)
+
+# PC-Semana 3
+Resultados
+
+## 1. Bank Queue 
+
+![alt text](https://github.com/labt1/PC-problems/blob/main//Semana%203/BankQueue.png)
+
+## 2. Watering Grass
+
+![alt text](https://github.com/labt1/PC-problems/blob/main//Semana%203/WateringGrass.png)
+
+## 3. A Vicious Piekemen (Easy)
+
+![alt text](https://github.com/labt1/PC-problems/blob/main//Semana%203/AViciousPikemen.png)
+
 
 
