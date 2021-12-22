@@ -1,4 +1,4 @@
-# PC-problems 09/12
+# PC-Semana 2
 Resultados
 1. Substring Order I
 
@@ -6,7 +6,7 @@ Resultados
 
 3. Group Anagrams
 
-![alt text](https://github.com/labt1/PC-problems/blob/main/GroupAnagrams.PNG?raw=true)
+![alt text](https://github.com/labt1/PC-problems/blob/main/semana2/GroupAnagrams.PNG?raw=true)
 
 4. Anagram Counting
 
