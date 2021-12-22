@@ -1,6 +1,6 @@
 # PC-Semana 1
 Resultados:
-1. Repeated Substrings
+$1. Repeated Substrings$
 
 ![alt text](https://github.com/labt1/PC-problems/blob/main//Semana%201/RepeatedSubstrings.png)
 
